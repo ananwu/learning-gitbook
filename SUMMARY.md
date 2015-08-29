@@ -1,5 +1,5 @@
 # Summary
 
-* chapter1.md
+* chapter1
 * chapter2
 
